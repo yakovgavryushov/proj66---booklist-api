@@ -12,3 +12,5 @@ To use this API you need to
 NOTE: the number 4000 is a port address and it is set in index.js file at a line 1 and you can change it if your port 4000 is already busy.
 
 NOTE: Now its only the button "all books" that works, other buttons are in process of development
+
+NOTE: The only source of books now it russian e-bookstore "labirint.ru", but later others can be added, if it will possible
