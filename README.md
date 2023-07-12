@@ -13,4 +13,4 @@ NOTE: the number 4000 is a port address and it is set in index.js file at a line
 
 NOTE: The only source of books now it russian e-bookstore "labirint.ru", but later others can be added, if it will possible
 
-also: to add all the genres to the list -- you should click every genre just once and it will be added
+also: to add all the genres to the list -- you should click every genre just once and it will be added (in future something better will be implemented)
