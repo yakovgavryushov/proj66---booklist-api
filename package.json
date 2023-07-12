@@ -13,5 +13,13 @@
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.18.2",
     "express-handlebars": "^7.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakovgavryushov/proj66---booklist-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yakovgavryushov/proj66---booklist-api/issues"
+  },
+  "homepage": "https://github.com/yakovgavryushov/proj66---booklist-api#readme"
 }
